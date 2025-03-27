@@ -61,7 +61,7 @@ We implement a **Seq2Seq model with attention**, consisting of:
 ---
 
 ## 🚀 How to Run the Notebook
-### 📦 **Dependencies**
+### 📦  **Dependencies**
 Before running the notebook, install the required Python libraries:
 ```bash
 pip install torch torchvision torchaudio numpy pandas matplotlib nltk
